@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+section {
+	display: inline-flex;
+}
+
+fieldset {
+	width: 100%
+}
+
+input[type=text] {
+    color: #0d0d0d;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 2px 2px 2px 2px;
+    padding: 2px;
+    text-align: left;
+    border-width: 1px;
+}
+
+.codigo-filial {
+	width: 14% !important;
+}
+
+.descricao-filial {
+	width: 70% !important;
+}

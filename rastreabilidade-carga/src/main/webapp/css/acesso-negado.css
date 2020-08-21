@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+fieldset {
+	border: 1px solid #054F77 !important;
+    margin: 0;
+    xmin-width: 0;
+    padding: 10px;
+    position: absolute !important;
+    border-radius: 4px;
+    background-color: #FFF;
+    padding-left: 10px !important;
+    height: 27%;
+    top: 30%;
+    left: 30%;
+}
+
+legend {
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	width: 32%;
+	border-radius: 4px;
+	padding: 5px 5px 5px 0px;
+	background-color: #ffffff;
+}
+
+.panel-body {
+	text-align: center;
+	font-size: 60px;
+	margin-top: -25px;
+}
+
+.logo-araujo {
+    height: 100px;
+    padding: 15px 0px 10px 0px;
+}

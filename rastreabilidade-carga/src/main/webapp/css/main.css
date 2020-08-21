@@ -1,0 +1,153 @@
+@charset "ISO-8859-1";
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  line-height: 1.2 !important;
+}
+
+main {
+	background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+	background-color: #013a74;
+}
+
+.nav-link {
+	color: white !important;
+	margin-right: 15px;
+}
+
+button  {
+  background-color: #013a74;
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  border-radius: 5px 5px 5px 5px !important;
+  margin-right: 10px;
+}
+
+label {
+	margin-bottom: 0px !important;
+}
+
+.open-popup {
+	min-width: 35px;
+    padding: 4px 3px 4px 0px;
+    background-color: #013a74;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 0.95em;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.open-popup:hover {
+	text-decoration: none;
+	background-color: #39ace7;
+	color: white;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+	background-color: #c0c0c0 !important;
+	font-weight: 600;
+	cursor: pointer;	
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover  {
+  background-color: #39ace7;
+}
+
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active  {
+  transform: scale(0.95);
+}
+
+.logo-araujo {
+	width: 8%;
+	margin-right: 15px;
+}
+
+table {	
+    font-size: small;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0em 0em !important;
+}
+
+.ui-dialog-titlebar {
+   color: white !important;
+   background-color: #013a74 !important;
+}
+ 
+button:hover  {
+  background-color: #39ace7;
+}
+
+button:active  {
+  transform: scale(0.95);
+}
+
+button.ui-button {
+	width: 97px;
+	color: white;
+	background-color: #013a74; 
+}
+ 
+button.ui-button:focus {
+	color: white;
+	background-color: #013a74; 
+}
+
+@media only screen and (max-width: 1279px) {
+  html {
+    font-size: 0.7rem !important;
+  }
+  
+  table {
+  	font-size: 0.7rem;
+  }
+}
+
+@media only screen and (max-width: 1365px) and (min-width: 1280px) {
+  html {
+    font-size: 0.75rem !important;
+  }
+  
+  table {
+  	font-size: 0.75rem;
+  }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1366px) {
+  html {
+    font-size: 0.8rem !important;
+  }
+  
+  table {
+  	font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 1919px) and (min-width: 1441px) {
+  html {
+    font-size: 0.9rem !important;
+  }
+  
+  table {
+  	font-size: 0.9rem;
+  }
+}
