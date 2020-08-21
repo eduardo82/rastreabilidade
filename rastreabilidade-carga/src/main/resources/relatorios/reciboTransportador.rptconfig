@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.17" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__numeroConf_705_0</property>
+            <property name="value">204193</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1996_1</property>
+            <property name="value">exibirHora_1996</property>
+        </structure>
+        <structure>
+            <property name="name">exibirHora_1996_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1997_2</property>
+            <property name="value">exibirData_1997</property>
+        </structure>
+        <structure>
+            <property name="name">exibirData_1997_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_3310_3</property>
+            <property name="value">tipoImpressao_3310</property>
+        </structure>
+        <structure>
+            <property name="name">tipoImpressao_3310_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_3405_4</property>
+            <property name="value">tipoSituacao_3405</property>
+        </structure>
+        <structure>
+            <property name="name">tipoSituacao_3405_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">numeroConf_705_5</property>
+            <property name="value">204193</property>
+        </structure>
+        <structure>
+            <property name="name">numeroConf_705_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>

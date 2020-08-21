@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.17" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__numeroConf_705_0</property>
+            <property name="value">25436</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exibirUzConferidas_706_1</property>
+            <property name="value">S</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1978_2</property>
+            <property name="value">codigoFilial_1978</property>
+        </structure>
+        <structure>
+            <property name="name">codigoFilial_1978_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exibirHora_1996_3</property>
+            <property name="value">16:00</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exibirData_1997_4</property>
+            <property name="value">19/04/2016</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__tipoImpressao_3310_5</property>
+            <property name="value">Reimpressão</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__tipoSituacao_3405_6</property>
+            <property name="value">Fechado</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__flagMensagemAuditoria_6181_7</property>
+            <property name="value">false</property>
+        </structure>
+        <structure>
+            <property name="name">flagMensagemAuditoria_6181_8</property>
+            <property name="value">false</property>
+        </structure>
+        <structure>
+            <property name="name">flagMensagemAuditoria_6181_type_</property>
+            <property name="value">boolean</property>
+        </structure>
+        <structure>
+            <property name="name">exibirHora_1996_9</property>
+            <property name="value">16:00</property>
+        </structure>
+        <structure>
+            <property name="name">exibirHora_1996_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">tipoSituacao_3405_10</property>
+            <property name="value">Fechado</property>
+        </structure>
+        <structure>
+            <property name="name">tipoSituacao_3405_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">tipoImpressao_3310_11</property>
+            <property name="value">Reimpressão</property>
+        </structure>
+        <structure>
+            <property name="name">tipoImpressao_3310_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exibirData_1997_12</property>
+            <property name="value">19/04/2016</property>
+        </structure>
+        <structure>
+            <property name="name">exibirData_1997_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exibirUzConferidas_706_13</property>
+            <property name="value">S</property>
+        </structure>
+        <structure>
+            <property name="name">exibirUzConferidas_706_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">numeroConf_705_14</property>
+            <property name="value">25436</property>
+        </structure>
+        <structure>
+            <property name="name">numeroConf_705_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>
